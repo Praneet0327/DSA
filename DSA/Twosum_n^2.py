@@ -1,4 +1,4 @@
-nums = [1,3,7,5,3]
+nums = [1,3,7,5,3,0]
 target = 6
 for i in range(0, len(nums)-1):
             a = target-nums[i]
